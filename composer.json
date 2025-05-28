@@ -1,5 +1,6 @@
 {
     "name": "phpoffice/phpspreadsheet",
+    "version": "4.3.2",
     "description": "PHPSpreadsheet - Read, Create and Write Spreadsheet documents in PHP - Spreadsheet engine",
     "keywords": [
         "PHP",
